@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quiz/static/css/main.8d2c575b.chunk.css",
+    "main.js": "/quiz/static/js/main.38f1832a.chunk.js",
+    "main.js.map": "/quiz/static/js/main.38f1832a.chunk.js.map",
+    "runtime-main.js": "/quiz/static/js/runtime-main.092bbaa6.js",
+    "runtime-main.js.map": "/quiz/static/js/runtime-main.092bbaa6.js.map",
+    "static/js/2.ca6faa92.chunk.js": "/quiz/static/js/2.ca6faa92.chunk.js",
+    "static/js/2.ca6faa92.chunk.js.map": "/quiz/static/js/2.ca6faa92.chunk.js.map",
+    "index.html": "/quiz/index.html",
+    "precache-manifest.6e37d09831bb525df41e037e25a17e27.js": "/quiz/precache-manifest.6e37d09831bb525df41e037e25a17e27.js",
+    "service-worker.js": "/quiz/service-worker.js",
+    "static/css/main.8d2c575b.chunk.css.map": "/quiz/static/css/main.8d2c575b.chunk.css.map",
+    "static/js/2.ca6faa92.chunk.js.LICENSE.txt": "/quiz/static/js/2.ca6faa92.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/quiz/static/media/polytech.59730d76.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.092bbaa6.js",
+    "static/js/2.ca6faa92.chunk.js",
+    "static/css/main.8d2c575b.chunk.css",
+    "static/js/main.38f1832a.chunk.js"
+  ]
+}
